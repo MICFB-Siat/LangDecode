@@ -1,5 +1,8 @@
-# Multilingual brain decoding reveals shared cortical semantic geometry
+Code for the paper *Multilingual brain decoding reveals shared cortical semantic geometry*.
 
-Code repository for the paper *Multilingual brain decoding reveals shared cortical semantic geometry*.
+## Installation
 
-Code and documentation will be added soon.
+```bash
+conda create -n langdecoder python=3.10 && conda activate langdecoder
+pip install -r requirements.txt
+```
